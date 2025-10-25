@@ -12,7 +12,7 @@
 	--app-width: 760px;
 	--header-height: 4rem;
 
-	--accent-color: dodgerblue;
+	--accent-color: rgb(30, 255, 41);
 
 	--bg: light-dark(hsl(0, 0%, 95%), black);
 	--bg-color-primary: light-dark(hsl(0, 0%, 100%), hsl(0, 0%, 8%));
